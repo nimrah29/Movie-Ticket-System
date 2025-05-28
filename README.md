@@ -35,11 +35,27 @@ Technologies Used
 
  Screenshots
 
+login-
+
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%201.png)
+
+ movie Selection-
+ 
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%202.png)
+
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%203.png)
+ 
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%204.png)
+
+ Seat Selection-
+ 
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%205.png)
+
+ Payment-
+ 
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%206.png)
+
+ Confirmation Page-
+ 
  ![image alt](https://github.com/nimrah29/Movie-Ticket-System/blob/e61c620a831d362d904bb884d8acb2af57874d9b/Picture%207.png)
 
