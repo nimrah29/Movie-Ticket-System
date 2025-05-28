@@ -31,6 +31,15 @@ Technologies Used
 - Java SE 8
 - Swing (GUI framework)
 - SQLite (via JDBC)
-- JDBC Driver:** [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc)
+- JDBC Driver
+
+ Screenshots
+
+ ![image alt]()
+ ![image alt]()
+ ![image alt]()
+ ![image alt]()
+ ![image alt]()
+ ![image alt]()
 
 
