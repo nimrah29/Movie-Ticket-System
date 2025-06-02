@@ -1,4 +1,4 @@
-# 🎟️ Movie Ticket Booking System (Java Swing + SQLite)
+#  Movie Ticket Booking System (Java Swing + SQLite)
 
 A desktop GUI application for booking movie tickets, built using **Java Swing** and **SQLite**.  
 The system includes user login/registration, movie and showtime selection, seat booking with availability tracking, payment entry, and final confirmation.
